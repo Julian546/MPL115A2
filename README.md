@@ -1,2 +1,5 @@
 # MPL115A2
-Acquire data from a MPL115A2 with a rpi 3 model B
+You can find my code to acquire data from a MPL115A2 I2C Barometer with a rpi 3 model B
+
+# Initial code
+https://github.com/ControlEverythingCommunity/MPL115A2/blob/master/Python/MPL115A2.py
