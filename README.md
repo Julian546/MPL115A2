@@ -1,7 +1,6 @@
 # MPL115A2
-You can find my code to acquire data from a MPL115A2 I2C Barometer with a rpi 3 model B
-
-![MPL115A2](MPL115A2.jpeg)
+You can find my code to acquire data from a MPL115A2 I2C Barometer with a rpi 3 model B.
+![MPL115A2](MPL115A2.png)
 
 ## Installation
 Before using this code run these commands lines to download and install smbus library on your Raspberry pi.
